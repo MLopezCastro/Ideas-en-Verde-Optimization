@@ -4,4 +4,9 @@ En este Proyecto trataré acerca de la eficiencia de Ideas en Verde - Jardinerí
 
 Se tomaron datos del período 2003-2024, e incluyen:
 
+Suma de costo de adquisición de plantas
+Suma de Valor de plantas (equivalente a Suma de costo de adquisicón de plantas + Suma de valor de plantas de producción popia o recuperadas)
+
+
+
 
