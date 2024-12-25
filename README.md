@@ -213,7 +213,7 @@ Los datos incluyen:
 
 ## **Contact Information**  
 
-Este proyecto fue desarrollado por [Tu Nombre](https://www.linkedin.com/in/tu-usuario).  
+Este proyecto fue desarrollado por Marcelo Fabián López Castro https://www.linkedin.com/in/marceloflopez/
 ¿Tienes preguntas o comentarios? ¡No dudes en contactarme! 🚀  
 
 ---
