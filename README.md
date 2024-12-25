@@ -1,10 +1,92 @@
+# **Ideas-en-Verde Optimization** 🌿  
 
+### **Operational Efficiency Analysis and Optimization Strategies (2003-2024)**  
 
+---
 
+## **Project Overview**  
 
+This project analyzes the operational efficiency of **Ideas en Verde - Gardening for Businesses** over a 20-year period (2003-2024).  
 
+The main focus is to evaluate and optimize key indicators related to:  
 
+- **Plant Replacement Percentage**: Real/Serv.  
+- **Service Revenue**: Valor/Serv.  
 
+The project demonstrates how the COVID-19 pandemic significantly impacted the company's efficiency, driving key metrics to historically low levels. It also details the measures implemented to reverse the situation and achieve record-breaking values.
+
+---
+
+## **Data Used**  
+
+The data includes:  
+
+- **Plant Acquisition Costs:** Total costs associated with plant purchases for services.  
+- **Total Plant Value:** Includes both acquisition costs and the value of internally produced or recovered plants.  
+
+### **Period Analyzed:**  
+
+2003 - 2023.
+
+---
+
+## **Project Objectives**  
+
+1. **Identify Historical Trends** in operational efficiency using key metrics.  
+2. **Evaluate the Pandemic's Impact** on the company's metrics.  
+3. **Implement Data-Driven Strategies** to surpass historical averages and improve operational sustainability.  
+
+---
+
+## **Methodology**  
+
+1. **Data Cleaning and Transformation**:  
+   - Original data consisted of 21 annual Excel tables.  
+   - Consolidated into a long-format master table and supporting tables.  
+
+2. **ETL Process (Extract, Transform, Load)**:  
+   - Converted Excel files to CSV format.  
+   - Created a relational database in SQL Server.  
+
+3. **Initial Visualizations**:  
+   - Preliminary charts in Python using pandas, matplotlib, and Jupyter Notebook.  
+
+4. **Visual and Strategic Analysis**:  
+   - Interactive dashboards developed in Power BI, with dynamic filters and segmentation.  
+
+---
+
+## **Key Results**  
+
+- 📉 **Pandemic Impact:** In 2021, the replacement rate reached a historic high (16.03%).  
+- 📈 **Implemented Improvements:** Internal plant production, diversification of economical species, and digital strategies reduced the replacement rate to record lows (5.43%).  
+- 🌎 **Geographical Analysis:** 58% of clients are concentrated in Microcentro, identifying expansion opportunities in less dense areas.  
+
+---
+
+## **Tools and Technologies Used**  
+
+- **Excel:** Initial data cleaning and structuring.  
+- **SQL Server:** Database creation and querying.  
+- **Python:** Initial visualizations using matplotlib, pandas, and Jupyter Notebook.  
+- **Power BI:** Interactive dashboards for analysis and storytelling.  
+
+---
+
+## **Implemented Strategies**  
+
+1. **In-House Plant Production:** Reduced costs by producing plants internally.  
+2. **Species Diversification:** Use of cost-effective and adaptable plants.  
+3. **New Client Acquisition:** Website optimization and blog creation to attract organic traffic.  
+4. **Plant Rotation:** Extended plant lifespan and reduced replacements.  
+
+---
+
+## **How to Run the Project**  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/Ideas-en-Verde-Optimization.git
 
 ---
 
