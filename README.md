@@ -103,4 +103,27 @@ Este proyecto fue desarrollado por [Tu Nombre](https://www.linkedin.com/in/tu-us
 
 ---
 
+## Dashboard Overview
+![Dashboard Overview](Images/1.png)
+This dashboard provides an overview of Real/Serv and Valor/Serv metrics across the 20-year period.
+
+## Historical Trends
+![Historical Trends](Images/2.png)
+Visualization of historical trends for plant replenishment rates and service values.
+
+## Pandemic Impact Analysis
+![Pandemic Impact Analysis](Images/3.png)
+Detailed insights into the operational challenges and recovery strategies during the COVID-19 pandemic.
+
+## KPIs Summary
+![KPIs Summary](Images/4.png)
+Key performance indicators for efficiency and cost optimization.
+
+## Geographic Distribution
+![Geographic Distribution](Images/5.png)
+Heatmap showing client distribution in different regions.
+
+## Conclusions and Insights
+![Conclusions and Insights](Images/6.png)
+Final conclusions and actionable insights derived from the analysis.
 
