@@ -114,7 +114,8 @@ Final conclusions and actionable insights derived from the analysis.
 
 ---
 
-Contact Information
+## **Contact Information** 
+
 This project was developed by Marcelo Fabián López Castro: https://www.linkedin.com/in/marceloflopez/
 
 Do you have any questions or comments? Feel free to reach out! 🚀
@@ -218,7 +219,7 @@ Los datos incluyen:
 
 ---
 
-## **Contact Information**  
+## **Información de Contacto**  
 
 Este proyecto fue desarrollado por Marcelo Fabián López Castro https://www.linkedin.com/in/marceloflopez/
 
