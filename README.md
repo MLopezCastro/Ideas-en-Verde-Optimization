@@ -1,4 +1,13 @@
 
+
+
+
+
+
+
+
+---
+
 # **Ideas-en-Verde Optimization** 🌿  
 
 ### **Análisis de Eficiencia Operativa y Estrategias de Optimización (2003-2024)**  
