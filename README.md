@@ -114,6 +114,13 @@ Final conclusions and actionable insights derived from the analysis.
 
 ---
 
+Contact Information
+This project was developed by Marcelo Fabián López Castro: https://www.linkedin.com/in/marceloflopez/
+
+Do you have any questions or comments? Feel free to reach out! 🚀
+
+---
+
 # **Ideas-en-Verde Optimization** 🌿  
 
 ### **Análisis de Eficiencia Operativa y Estrategias de Optimización (2003-2024)**  
