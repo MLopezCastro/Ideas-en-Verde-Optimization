@@ -106,6 +106,7 @@ Este proyecto fue desarrollado por [Tu Nombre](https://www.linkedin.com/in/tu-us
 ## Dashboard Overview
 ![Dashboard Overview](Images/1.png)
 This dashboard provides an overview of Real/Serv and Valor/Serv metrics across the 20-year period.
+
 Vista General del Dashboard
 Este dashboard proporciona una visión general de los indicadores clave Real/Serv y Valor/Serv a lo largo de un período de 20 años (2003-2023).
 
