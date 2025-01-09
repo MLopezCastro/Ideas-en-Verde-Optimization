@@ -6,7 +6,7 @@
 
 ## **Project Overview**  
 
-This project analyzes the operational efficiency of **Ideas en Verde - Gardening for Businesses** over a 20-year period (2003-2024).  
+This project analyzes the operational efficiency of **Ideas en Verde - Gardening for Businesses** over a 20-year period (2003-2023).  
 
 The main focus is to evaluate and optimize key indicators related to:  
 
